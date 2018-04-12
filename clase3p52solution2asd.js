@@ -31,3 +31,6 @@ console.log(getDiaSemana(asd))
 asd = ['pato','gato','perro'];
 console.log(getDiaSemana(asd))
 console.log(getDiaSemana(9))
+
+
+console.log("test git")
